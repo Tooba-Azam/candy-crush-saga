@@ -4,9 +4,8 @@
 
 ### *A fully-featured Match-3 puzzle game built from scratch in C++ using SFML*
 
-<img src="CC GIFs/CC GIF 1.gif" width="850"/>
-<img src="CC GIFs/CC GIF 2.gif" width="850"/>
-<img src="CC GIFs/CC GIF 3.gif" width="850"/>
+<img src="CC GIFs/CC GIF 1.gif" width="500"/>
+<img src="CC GIFs/CC GIF 3.gif" width="500"/>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)
 ![SFML](https://img.shields.io/badge/SFML-Graphics-green?style=for-the-badge)
@@ -71,8 +70,8 @@ Create bigger matches to unlock increasingly powerful candy combinations.
 
 <div align="center">
 
-| Gameplay | Special Candy | Game Over |
-|----------|---------------|-----------|
+| Bomb Candy | Wrapped Candy | Vertical Striped | Horizontal Striped |
+|----------|---------------|-----------|-----------|
 | <img src="CC Screenshots\CC SC Candy Bomb.jpeg" width="260"/> | <img src="CC Screenshots/CC SC Wrapped.jpeg" width="260"/> | <img src="CC Screenshots/CC SC Vertical Striped.jpeg" width="260"/> | <img src="CC Screenshots/CC SC Horizontal Striped.jpeg" width="260"/> |
 
 </div>
@@ -97,8 +96,11 @@ This project implements several core game development concepts:
 # ⌨️ Controls
 
 | ⬅️⬆️⬇️➡️ | Move Cursor |
+
 | **Enter / Space** | Select & Swap |
+
 | **Q** | Quit Game |
+
 | **Enter** | Restart after Game Over |
 
 ---
