@@ -126,7 +126,7 @@ Compile the project and ensure the **assets** folder remains alongside the execu
 
 This project was developed as my **first-semester programming project** to explore the fundamentals of game development in C++.
 
-While inspired by the classic Candy Crush, every gameplay mechanic—including board generation, match detection, gravity simulation, special candies, animations, and game logic—was implemented from scratch using **C++ and SFML**.
+While inspired by the classic Candy Crush, every gameplay mechanic, including board generation, match detection, gravity simulation, special candies, animations, and game logic, was implemented from scratch using **C++ and SFML**.
 
 ---
 
